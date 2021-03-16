@@ -4459,6 +4459,7 @@ p span[class*=s-].active:nth-of-type(8) span {
     -webkit-transition-delay: .5s;
     -o-transition-delay: .5s;
     transition-delay: .5s
+    z-index: 999;
 }
 
 [class|=page-header] .wrap-img {
