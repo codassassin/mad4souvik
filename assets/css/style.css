@@ -4419,7 +4419,8 @@ p span[class*=s-].active:nth-of-type(8) span {
     opacity: 0;
     -webkit-transform: translate(-15px, -17px);
     -ms-transform: translate(-15px, -17px);
-    transform: translate(-15px, -17px)
+    transform: translate(-15px, -17px);
+    z-index: 999;
 }
 
 @media screen and (max-width:480px) {
