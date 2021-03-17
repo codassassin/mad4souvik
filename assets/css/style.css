@@ -4458,7 +4458,7 @@ p span[class*=s-].active:nth-of-type(8) span {
     transition: .4s ease all;
     -webkit-transition-delay: .5s;
     -o-transition-delay: .5s;
-    transition-delay: .5s
+    transition-delay: .5s;
     z-index: 999;
 }
 
